@@ -17,5 +17,4 @@ This readme is written in *markdown*
 
 [Employee App](https://github.com/xaverurban/employee-app-1)
 
-<link rel="stylesheet" href="style.css">
 
