@@ -1,13 +1,12 @@
 # Xaver Urban's Tech Profile
 
 
-## Markdown
-This readme is written in *markdown*
 
 ## Main programming languages
 - Java
 - Kotlin
 - JS
+- HTML / CSS
 
 ### Notable Github Repos
 
